@@ -17,3 +17,13 @@ posicao = lista.index(maior)
 print(f"Lista: {lista}")
 print(f"Maior elemento: {maior}")
 print(f"Posição do maior elemento: {posicao}")
+
+# outro jeito de fazer o mesmo programa usando a função enumerate
+# for i, valor in enumerate(lista):
+#     if valor == maior:
+#         print(f"Posição do maior elemento: {i}")
+#         break
+# print(f"Lista: {lista}")
+# print(f"Maior elemento: {maior}")
+# print(f"Posição do maior elemento: {posicao}")
+
