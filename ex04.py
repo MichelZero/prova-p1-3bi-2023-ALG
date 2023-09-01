@@ -1,5 +1,6 @@
 #
 # autores: Cristiano e Michel
+# data: 30/08/2023
 
 # 4 - Escreva um programa que solicite ao usuário que digite uma 
 # sequência de números, armazene em uma lista e calcule a média.

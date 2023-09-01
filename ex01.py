@@ -1,5 +1,6 @@
 #
 # autores: Cristiano e Michel
+# data: 30/08/2023
 
 # 1 - ler uma lista de 5 número reais e imprimir a lista na ordem inversa. (dica use o método “reverse()” )
 

@@ -1,5 +1,6 @@
 #
 # autores: Cristiano e Michel
+# data: 30/08/2023
 
 # 3 - Em linguagem Python, faça um programa que leia um conjunto de 10 números inteiros, 
 # armazenando-o em uma lista (L1), calcular o quadrado dos elementos dessa lista, 
